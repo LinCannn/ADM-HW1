@@ -7,7 +7,7 @@ This repository contains the submissions for Homework 1 of the Algorithmic Metho
 
 ## Contents
 
-- `merged.pdf`: A compiled document containing all the submissions from the HackerRank platform.
+- `merged_out.pdf`: A compiled document containing all the submissions from the HackerRank platform.
 - `scripts.py`: Python scripts with solutions to all exercises from the assignment.
 
 Feel free to explore the repository for more details on each submission.
